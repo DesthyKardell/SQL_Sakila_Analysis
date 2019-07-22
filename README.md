@@ -1,10 +1,15 @@
-# Homework Assignment
+# Analysis for Sakila SQL database
+
+In this project, I am working with the relevant data of the 16 tables contained in the Sakila Schema. 
+Using various queries, the purpose is to answer questions by selecting and joining the relevant tables.
+Please see the SQL code at [Sakila_Project](SQL_Project.sql).
+
 
 ## Installation Instructions
 
 * Refer to the [installation guide](Installation.md) to install the necessary files.
 
-## Instructions
+## Main Questions
 
 * 1a. Display the first and last names of all actors from the table `actor`.
 
@@ -97,11 +102,3 @@
 'staff_list'
 'store'
 ```
-
-## Uploading Homework
-
-* To submit this homework using BootCampSpot:
-
-  * Create a GitHub repository.
-  * Upload your .sql file with the completed queries.
-  * Submit a link to your GitHub repo through BootCampSpot.
