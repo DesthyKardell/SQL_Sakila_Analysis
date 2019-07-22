@@ -10,4 +10,23 @@ Please see the SQL code at [Sakila_Project](SQL_Project.sql).
 
 ## Installation Instructions
 
-* Refer to the [installation guide](Installation.md) to install the necessary files.
+  * Refer to the [installation guide](Installation.md) to install the necessary files.
+
+## List of Tables
+
+  * 'actor'
+  * 'address'
+  * 'category'
+  * 'city'
+  * 'country'
+  * 'customer'
+  * 'film'
+  * 'film_actor'
+  * 'film_category'
+  * 'film_text'
+  * 'inventory'
+  * 'language'
+  * 'payment'
+  * 'rental'
+  * 'staff'
+  * 'store'
